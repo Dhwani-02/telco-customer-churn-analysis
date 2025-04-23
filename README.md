@@ -28,3 +28,8 @@ Logistic Regression	~80%	0.21
 Random Forest	~83%	0.62
 Random Forest provided the best overall performance, capturing complex patterns and yielding more reliable predictions.
 
+Conclusion
+This project showcases how data analysis and machine learning can provide actionable insights into customer behavior and enable proactive retention strategies in the telecom industry.
+
+
+
