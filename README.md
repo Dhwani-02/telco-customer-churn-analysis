@@ -31,5 +31,9 @@ Random Forest provided the best overall performance, capturing complex patterns 
 Conclusion
 This project showcases how data analysis and machine learning can provide actionable insights into customer behavior and enable proactive retention strategies in the telecom industry.
 
+Contact
+For any inquiries, reach out via GitHub Issues or email. dhwanizala25@gmail.com
 
+Author: [Dhwani Zala]
+Date: April 2025
 
